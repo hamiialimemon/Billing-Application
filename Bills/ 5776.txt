@@ -1,0 +1,13 @@
+	Welcome to Our Mart
+
+Bill Number: 5776 
+Customer Name: Hamid Ali
+Phone Number: 03151331
+======================================
+Products		QTY		Price 
+======================================
+Face Cream		1		120
+--------------------------------------
+Cosmetics Tax			    Rs. 2.4 
+Total Bill: 			    Rs:122.4 
+--------------------------------------

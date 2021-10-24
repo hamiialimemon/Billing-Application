@@ -1,0 +1,18 @@
+	Welcome to Our Mart
+
+Bill Number: 8000 
+Customer Name: Hamid
+Phone Number: 222222211
+======================================
+Products		QTY		Price 
+======================================
+Face Cream		1		120
+Daal		1		150
+Limca		2		60
+Sting		2		100
+--------------------------------------
+Cosmetics Tax			    Rs. 2.4 
+Groceries Tax			    Rs. 3.0 
+Cold Drink Tax			    Rs. 1.6 
+Total Bill: 			    Rs:437.0 
+--------------------------------------

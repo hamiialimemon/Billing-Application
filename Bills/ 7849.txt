@@ -1,0 +1,17 @@
+	Welcome to Our Mart
+
+Bill Number: 7849 
+Customer Name: Hamid Ali
+Phone Number: 03153471298
+======================================
+Products		QTY		Price 
+======================================
+Face Cream		1		120
+Sugar		1		240
+Sting		1		50
+--------------------------------------
+Cosmetics Tax			    Rs. 2.4 
+Groceries Tax			    Rs. 4.8 
+Cold Drink Tax			    Rs. 0.5 
+Total Bill: 			    Rs:417.7 
+--------------------------------------

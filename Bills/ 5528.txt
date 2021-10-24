@@ -1,0 +1,17 @@
+	Welcome to Our Mart
+
+Bill Number: 5528 
+Customer Name: Hamid Ali
+Phone Number: 03343027993
+======================================
+Products		QTY		Price 
+======================================
+Bath Soap		1		40
+Daal		1		150
+Sting		1		50
+--------------------------------------
+Cosmetics Tax			    Rs. 0.8 
+Groceries Tax			    Rs. 3.0 
+Cold Drink Tax			    Rs. 0.5 
+Total Bill: 			    Rs:244.3 
+--------------------------------------
